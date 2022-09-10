@@ -1,7 +1,5 @@
 package study_02;
 
-import javax.swing.*;
-import java.util.Map;
 import java.util.NavigableMap;
 import java.util.TreeMap;
 

@@ -17,6 +17,8 @@ class CalculatorTest {
     public void calculatorTest() {
         Calculator plus = Calculator.fromString("+");
 
+        System.out.println(plus);
+
         assertThat(plus).isEqualTo(Calculator.PLUS);
     }
 
